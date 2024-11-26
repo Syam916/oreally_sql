@@ -38,8 +38,10 @@ The website for **ShopWise Solution** is a sleek and user-friendly e-commerce pl
 ---
  
 # Context View
+
+
  
-The workflow of the ShopWise Chatbot is outlined in the steps below:
+The workflow depicted in the image outlines the step-by-step process of how the ShopWise Chatbot operates. Here's the detailed description: 
  
 1. **Start**: 
    - The process begins with initializing the workflow.
