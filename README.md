@@ -22,16 +22,7 @@ Dedicated to knowledge-sharing, our training programs provide practical skills i
  
 # Problem Statement
  
-The problem statement for the ShopWise Assistant competition revolves around developing an AI-powered support assistant to enhance customer interactions on ShopWise Solutions, an e-commerce platform specializing in electronics and gadgets. The assistant must:
- 
-- Efficiently handle customer inquiries about products, such as descriptions, comparisons, availability, and recommendations.
-- Manage order-related queries, including tracking, status updates, history, return eligibility, and shipping updates.
-- Seamlessly integrate with ShopWise’s databases to provide accurate, real-time responses while avoiding inaccuracies or fabricated information.
-- Support multi-turn conversations for handling complex queries.
-- Deliver personalized interactions based on customer data.
-- Ensure a smooth and fast user experience, with scalable and reliable deployment.
- 
-These requirements align with ShopWise's goals of improving customer engagement and satisfaction.
+The problem statement for the ShopWise Assistant competition revolves around developing an AI-powered support assistant to enhance customer interactions on ShopWise Solutions, an e-commerce platform specializing in electronics and gadgets. The assistant must efficiently handle customer inquiries about products, such as descriptions, comparisons, availability, and recommendations, as well as manage order-related queries, including tracking, status updates, history, return eligibility, and shipping updates. It should seamlessly integrate with ShopWise’s databases to provide accurate, real-time responses while avoiding inaccuracies or fabricated information. The solution should support multi-turn conversations for handling complex queries and deliver personalized interactions based on customer data. Additionally, the assistant must ensure a smooth and fast user experience, with scalable and reliable deployment, aligning with ShopWise's goals of improving customer engagement and satisfaction.
  
 ---
  
