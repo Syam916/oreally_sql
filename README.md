@@ -9,9 +9,13 @@ This challenge invites participants to design and build an AI-powered support as
 # Company Overview
  
 Embark on a transformative data journey with **Vardaan Pioneering Data Sciences**—where innovation maximizes data potential, optimizing operations and streamlining processes for data-driven decision-making.
+
+![Vardaan Data Sciences Logo](https://github.com/Syam916/oreally_sql/blob/master/vds%20(2).png)
  
 Dedicated to knowledge-sharing, our training programs provide practical skills in the ever-changing world of data sciences. As a consultancy, we bridge the gap between raw data and actionable insights, delivering trends analysis and dashboards using advanced analytics, machine learning, and AI. Welcome to a future where **Vardaan Data Sciences Service** shapes a transformative path for organizations in the digital age.
- 
+
+---
+
 **ShopWise Solutions** is a dynamic e-commerce website specializing in electronics and gadgets. Offering a wide range of high-quality products, from the latest smartphones and laptops to cutting-edge smart home devices and accessories, ShopWise caters to tech enthusiasts and everyday consumers alike. The platform focuses on providing a seamless shopping experience with detailed product descriptions, personalized recommendations, and robust customer support. With its commitment to innovation and user satisfaction, ShopWise Solutions stands as a go-to destination for all things tech in the online marketplace.
  
 ---
