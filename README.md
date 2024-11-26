@@ -78,7 +78,7 @@ This workflow ensures accuracy, relevance, and high-quality interaction, making 
  
 # Architecture
  
-The AI-Powered Chatbot Architecture is designed for a seamless user experience in a customer service system. Below is the description of its components and workflow:
+The image depicts the AI-Powered Chatbot Architecture designed for a seamless user experience in a customer service system. Here’s the description of its components and workflow:
  
 1. **User Interaction**:
    - The user starts by selecting a language.
@@ -91,7 +91,9 @@ The AI-Powered Chatbot Architecture is designed for a seamless user experience i
      - **Tokenization**: Breaks the input into smaller meaningful units (tokens) for processing.
      - **Wordnet Model**: Utilizes a lexical database (such as WordNet) for understanding word meanings and relationships.
      - **Sentence Similarity Check**: Analyzes the similarity between user input and pre-existing data or knowledge base to provide the best match.
- 
+
+![architecture](
+
 3. **Database**:
    - The chatbot interacts with a database to fetch or store information needed for responding to queries or improving the system.
  
@@ -102,6 +104,6 @@ The AI-Powered Chatbot Architecture is designed for a seamless user experience i
 5. **Feedback Loop**:
    - If the response is invalid or unsatisfactory, the user can send feedback to the system. This feedback is processed to enhance the chatbot's performance.
  
-Overall, the architecture illustrates the end-to-end workflow of a chatbot system, from user input to response delivery, including backend components like tokenization, similarity checks, and feedback integration.
+Overall, the diagram illustrates the end-to-end workflow of a chatbot system from user input to response delivery, including backend components like tokenization, similarity checks, and feedback integration. 
  
 ---
