@@ -39,7 +39,7 @@ The website for **ShopWise Solution** is a sleek and user-friendly e-commerce pl
  
 # Context View
 
-
+![architecture](https://github.com/Syam916/oreally_sql/blob/master/Data%20Flow%20Diagram%20Whiteboard%20in%20Dark%20Yellow%20Light%20Yellow%20Black%20Monochromatic%20Style%20(1)%20(3).png)
  
 The workflow depicted in the image outlines the step-by-step process of how the ShopWise Chatbot operates. Here's the detailed description: 
  
