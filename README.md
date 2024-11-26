@@ -92,7 +92,7 @@ The image depicts the AI-Powered Chatbot Architecture designed for a seamless us
      - **Wordnet Model**: Utilizes a lexical database (such as WordNet) for understanding word meanings and relationships.
      - **Sentence Similarity Check**: Analyzes the similarity between user input and pre-existing data or knowledge base to provide the best match.
 
-![architecture](
+![architecture](https://github.com/Syam916/oreally_sql/blob/master/image%20(2).png)
 
 3. **Database**:
    - The chatbot interacts with a database to fetch or store information needed for responding to queries or improving the system.
