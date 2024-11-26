@@ -23,15 +23,14 @@ Dedicated to knowledge-sharing, our training programs provide practical skills i
 # Problem Statement
  
 The problem statement for the ShopWise Assistant competition revolves around developing an AI-powered support assistant to enhance customer interactions on ShopWise Solutions, an e-commerce platform specializing in electronics and gadgets. The assistant must efficiently handle customer inquiries about products, such as descriptions, comparisons, availability, and recommendations, as well as manage order-related queries, including tracking, status updates, history, return eligibility, and shipping updates. It should seamlessly integrate with ShopWise’s databases to provide accurate, real-time responses while avoiding inaccuracies or fabricated information. The solution should support multi-turn conversations for handling complex queries and deliver personalized interactions based on customer data. Additionally, the assistant must ensure a smooth and fast user experience, with scalable and reliable deployment, aligning with ShopWise's goals of improving customer engagement and satisfaction.
+
+![logo](https://github.com/Syam916/oreally_sql/blob/master/image%20(1).png)
  
----
  
-# Website Overview
- 
-The website for **ShopWise Solutions** is a sleek and user-friendly e-commerce platform. It is designed to provide a seamless shopping experience with a modern interface. Key features include:
+The website for **ShopWise Solution** is a sleek and user-friendly e-commerce platform. It is designed to provide a seamless shopping experience with a modern interface. Key features include: 
  
 1. **Header Navigation**: 
-   - A prominently displayed header featuring the brand logo, a search bar for easy product discovery, and navigation links to key sections like "Home," "About," "Products," "My Account," and "Cart."
+   - A prominently displayed header features the brand logo, a search bar for easy product discovery, and navigation links to key sections like "Home," "About," "Products," "My Account," and "Cart."
  
 2. **Interactive Chatbot**: 
    - A chatbot icon in the bottom right corner provides real-time assistance, improving customer support and engagement by addressing queries or guiding users through the website.
