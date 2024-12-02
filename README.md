@@ -109,7 +109,7 @@ Overall, the diagram illustrates the end-to-end workflow of a chatbot system fro
 ---
 # Chatbot Functionalities
 
-![architecture](https://github.com/Syam916/oreally_sql/blob/master/image%20(2).png)
+![architecture](https://github.com/Syam916/oreally_sql/blob/master/Blue%20and%20White%20Circle%20Organizational%20Chart.png)
 
 The diagram represents the core functionalities of a chatbot and how they interact with each other. Each connection has a specific purpose, demonstrating the logical flow of how different features work together to deliver seamless customer service. Here's a detailed explanation: 
 
